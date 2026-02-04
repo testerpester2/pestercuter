@@ -1,6 +1,6 @@
 # Atingle Executor
 
->  **NOTE:** This project is currently **non-functional**. While injection into the Sober Roblox client on Linux is working, **no active exploit features are implemented yet.** This project is a **rewrite-in-progress.**
+> External Roblox executor for the unofficial Sober client on Linux. Injects Lua via `.so` and `ptrace`.
 
 ---
 
